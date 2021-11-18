@@ -20,9 +20,9 @@ There is a mnatrix keypad for emergencies in case the internet is out, the homeo
 This is a test example of how it works and what the status would look like. It works via phone, computer, or any device with browser access aslong as it is connected to te property internet and has the proper password.
 
 ### Development Team
-**Cynthia Milan**     *Project Manager/ Software Engineer*
-**Brian Ayala**       *Software Engineer*
-**Miguel Jacuinde**   *Hardware Engineer*
+**Cynthia Milan**     *Project Manager/ Software Engineer*\
+**Brian Ayala**       *Software Engineer*\
+**Miguel Jacuinde**   *Hardware Engineer*\
 **Citlaly Garcia**    *Software Engineer*
 
 *Approved by Dr. F. Muheidat, PhD*
